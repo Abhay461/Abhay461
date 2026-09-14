@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Abhay Kumar
 
-### 💻 Flutter Developer | Mobile App Developer
+<p align="center">
+  <a href="https://github.com/Abhay461">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&weight=600&size=22&pause=1200&color=00FF66&background=00000000&center=true&vCenter=true&width=780&height=55&lines=%3E%20Flutter%20Developer;%3E%20Mobile%20App%20Developer;%3E%20Building%20with%20Dart%20%26%20Firebase;%3E%20Code.+Create.+Improve.;%3E%20System+Ready..." alt="Hacker style typing animation" />
+  </a>
+</p>
 
 I build modern, user-friendly mobile applications with **Flutter & Dart**, focusing on clean UI, smooth experiences, and practical solutions.
 
