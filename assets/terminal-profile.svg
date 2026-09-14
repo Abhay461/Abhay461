@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120">
+  <defs>
+    <clipPath id="line1"><rect x="0" y="0" width="0" height="40"><animate attributeName="width" values="0;0;840;840;0" keyTimes="0;0.03;0.38;0.82;1" dur="10s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="line2"><rect x="0" y="0" width="0" height="40"><animate attributeName="width" values="0;0;840;840;0" keyTimes="0;0.42;0.77;0.82;1" dur="10s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
+  <g fill="#00ff66" font-family="'JetBrains Mono','Fira Code',monospace" font-size="21" font-weight="600">
+    <text x="10" y="35" clip-path="url(#line1)">&gt; ABHAY_KUMAR :: FLUTTER_DEVELOPER :: MOBILE_APP_DEVELOPER</text>
+    <text x="10" y="82" clip-path="url(#line2)">&gt; FLUTTER + DART + FIREBASE :: BUILDING_MODERN_APPS :: ALWAYS_LEARNING...</text>
+  </g>
+  <text x="10" y="35" fill="#00ff66" font-family="monospace" font-size="21" font-weight="600" opacity="0.9">
+    <tspan x="10" dy="0">▌</tspan>
+    <animate attributeName="x" values="10;840;10" keyTimes="0;0.8;1" dur="10s" repeatCount="indefinite"/>
+  </text>
+</svg>
