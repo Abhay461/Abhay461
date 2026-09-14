@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Abhay Kumar
 
 <p align="center">
-  <a href="https://github.com/Abhay461">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains%20Mono&weight=500&size=19&pause=2200&color=00FF66&background=00000000&center=true&vCenter=true&width=1050&height=50&lines=%3E%20ABHAY_KUMAR%20%3A%3A%20FLUTTER_DEVELOPER%20%3A%3A%20MOBILE_APP_DEVELOPER%20%3A%3A%20FLUTTER%20%2B%20DART%20%2B%20FIREBASE%20%3A%3A%20BUILDING%20MODERN%20APPS" alt="Hacker style typing animation" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Abhay461/Abhay461/main/assets/terminal-typing.svg" alt="Hacker style terminal typing animation" width="100%" />
 </p>
 
 I build modern, user-friendly mobile applications with **Flutter & Dart**, focusing on clean UI, smooth experiences, and practical solutions.
