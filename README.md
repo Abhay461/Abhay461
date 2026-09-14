@@ -55,7 +55,9 @@ A project for tracking daily sadhana and personal progress.
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhay461&theme=darkhub&no-frame=true&no-bg=true&margin-w=8" />
+  <a href="https://github.com/Abhay461?tab=achievements">
+    <img src="https://img.shields.io/badge/View%20GitHub%20Achievements-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -63,7 +65,7 @@ A project for tracking daily sadhana and personal progress.
 ## 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhay461&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=Abhay461&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ---
