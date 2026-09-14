@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abhay Kumar
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abhay461/Abhay461/main/assets/terminal-typing.svg" alt="Hacker style terminal typing animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/Abhay461/Abhay461/main/assets/terminal-profile.svg" alt="Hacker style terminal animation" width="100%" />
 </p>
 
 I build modern, user-friendly mobile applications with **Flutter & Dart**, focusing on clean UI, smooth experiences, and practical solutions.
