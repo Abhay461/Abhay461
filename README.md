@@ -23,6 +23,25 @@ I build modern, user-friendly mobile applications with **Flutter & Dart**, focus
 
 ---
 
+## 🌟 Featured Projects
+
+### 📍 Braj-Darshan
+A project focused on exploring and presenting the Braj region.
+
+[🔗 View Project](https://github.com/Abhay461/Braj-Darshan)
+
+### 🛍️ Satvik-Store
+A modern store project built as part of my application development work.
+
+[🔗 View Project](https://github.com/Abhay461/Satvik-Store)
+
+### 🧘 Sadhana-Tracker
+A project for tracking daily sadhana and personal progress.
+
+[🔗 View Project](https://github.com/Abhay461/Sadhana-Tracker)
+
+---
+
 ## 📊 GitHub Overview
 
 <p align="left">
@@ -33,9 +52,25 @@ I build modern, user-friendly mobile applications with **Flutter & Dart**, focus
 
 ---
 
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhay461&theme=darkhub&no-frame=true&no-bg=true&margin-w=8" />
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhay461&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
+
+---
+
 ## 🔥 Contribution Streak
 
-<p align="left">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=Abhay461&theme=github-dark&hide_border=true" />
 </p>
 
