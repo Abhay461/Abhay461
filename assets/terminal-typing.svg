@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="100" viewBox="0 0 1000 100">
+  <defs>
+    <clipPath id="line1"><rect x="0" y="0" width="0" height="42"><animate attributeName="width" from="0" to="940" dur="5s" begin="0s" fill="freeze"/></rect></clipPath>
+    <clipPath id="line2"><rect x="0" y="0" width="0" height="42"><animate attributeName="width" from="0" to="940" dur="5s" begin="5.4s" fill="freeze"/></rect></clipPath>
+  </defs>
+  <rect width="100%" height="100%" fill="transparent"/>
+  <g font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="25" font-weight="600" fill="#00ff66">
+    <text x="20" y="32" clip-path="url(#line1)">&gt; ABHAY_KUMAR :: FLUTTER_DEVELOPER :: MOBILE_APP_DEVELOPER :: FLUTTER + DART</text>
+    <text x="20" y="78" clip-path="url(#line2)">&gt; FIREBASE :: CLEAN_UI :: BUILDING_MODERN_APPS :: ALWAYS_LEARNING...</text>
+  </g>
+  <rect x="20" y="8" width="3" height="29" fill="#00ff66">
+    <animate attributeName="x" values="20;20;940;940;20" keyTimes="0;0.01;0.5;0.54;1" dur="10.8s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="8;8;8;54;54" keyTimes="0;0.01;0.5;0.54;1" dur="10.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;1;1;1;0" keyTimes="0;0.01;0.5;0.54;1" dur="10.8s" repeatCount="indefinite"/>
+  </rect>
+</svg>
