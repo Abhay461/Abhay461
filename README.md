@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Abhay461">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&weight=600&size=22&pause=1800&color=00FF66&background=00000000&center=true&vCenter=true&width=900&height=55&lines=%3E%20Abhay%20Kumar%20%7C%20Flutter%20Developer%20%7C%20Mobile%20App%20Developer%20%7C%20Building%20modern%20apps%20with%20Flutter%20%26%20Dart%20%7C%20Firebase%20%7C%20Clean%20UI%20%7C%20Always%20Learning..." alt="Hacker style typing animation" />
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains%20Mono&weight=500&size=19&pause=2200&color=00FF66&background=00000000&center=true&vCenter=true&width=1050&height=50&lines=%3E%20ABHAY_KUMAR%20%3A%3A%20FLUTTER_DEVELOPER%20%3A%3A%20MOBILE_APP_DEVELOPER%20%3A%3A%20FLUTTER%20%2B%20DART%20%2B%20FIREBASE%20%3A%3A%20BUILDING%20MODERN%20APPS" alt="Hacker style typing animation" />
   </a>
 </p>
 
