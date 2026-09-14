@@ -23,11 +23,12 @@ I build modern, user-friendly mobile applications with **Flutter & Dart**, focus
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhay461&show_icons=true&hide_border=true&theme=github_dark" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay461&layout=compact&hide_border=true&theme=github_dark" />
+  <img src="https://img.shields.io/github/followers/Abhay461?style=for-the-badge&logo=github&label=Followers" />
+  <img src="https://img.shields.io/github/stars/Abhay461?style=for-the-badge&logo=github&label=Profile%20Stars" />
+  <img src="https://img.shields.io/github/repositories/Abhay461?style=for-the-badge&logo=github&label=Repositories" />
 </p>
 
 ---
